@@ -1,2 +1,2 @@
 # CuadriWriter
-A translator from Latin alphabetic writing into RSP writing
+A transliteration tool from Latin alphabetic writing into RSP writing
